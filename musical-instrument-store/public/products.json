@@ -1,0 +1,60 @@
+[
+
+    {
+      "id": 1,
+      "category": "guitar",
+      "name": "Гитара черная",
+      "price": "19900 р",
+      "img": "baraban-green.png"
+    },
+  
+    {
+      "id": 2,
+      "category": "guitar",
+      "name": "Гитара дуб",
+      "price": "12500 р",
+      "img": "baraban-green.png"
+    },
+
+    {
+      "id": 3,
+      "category": "guitar",
+      "name": "Гитара рок",
+      "price": "19900 р",
+      "img": "baraban-green.png"
+    },
+
+    {
+      "id": 4,
+      "category": "guitar",
+      "name": "Гитара классическая",
+      "price": "13700 р",
+      "img": "baraban-green.png"
+    },
+  
+    {
+      "id": 5,
+      "category": "guitar",
+      "name": "Гитара винтаж",
+      "price": "19900 р",
+      "img": "baraban-green.png"
+    },
+
+    {
+      "id": 6,
+      "category": "guitar",
+      "name": "Гитара cute",
+      "price": "30900 р",
+      "img": "baraban-green.png"
+    },
+
+    {
+      "id": 7,
+      "category": "pianino",
+      "name": "Пианино",
+      "price": "30900 р",
+      "img": "baraban-green.png"
+    }
+  
+  
+  ]
